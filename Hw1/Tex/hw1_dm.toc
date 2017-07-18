@@ -1,0 +1,6 @@
+\select@language {english}
+\contentsline {section}{Problem 1: Exploratory Data Analysis in Excel }{3}
+\contentsline {section}{Problem 2: Data Cleaning in Open-Refine}{5}
+\contentsline {section}{Problem 3: Data Integration and Transformation in Open-Refine}{6}
+\contentsline {section}{Problem 4: K-Nearest Neighbors Classification in Weka}{7}
+\contentsline {section}{Appendix}{10}
