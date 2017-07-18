@@ -1,0 +1,9 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  amount\_funded &  project\_goal &  number\_backers \\
+\midrule
+amount\_funded  &       1.000000 &      0.436182 &        0.717896 \\
+project\_goal   &       0.436182 &      1.000000 &        0.444587 \\
+number\_backers &       0.717896 &      0.444587 &        1.000000 \\
+\bottomrule
+\end{tabular}

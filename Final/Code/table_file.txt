@@ -1,0 +1,217 @@
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+EFF    &        \\
+\midrule
+?      &     61 \\
+low    &     40 \\
+medium &      1 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+GRO    &        \\
+\midrule
+high   &      1 \\
+low    &     87 \\
+medium &     14 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+MKT    &        \\
+\midrule
+low    &     83 \\
+medium &     19 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+EXP    &        \\
+\midrule
+low    &     94 \\
+medium &      8 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+CPL    &        \\
+\midrule
+high   &     20 \\
+low    &     22 \\
+medium &     60 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+INO    &        \\
+\midrule
+?      &     59 \\
+low    &     36 \\
+medium &      7 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+TCH    &        \\
+\midrule
+?      &     25 \\
+low    &     50 \\
+medium &     27 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+JNT    &        \\
+\midrule
+low    &     96 \\
+medium &      6 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+PTN    &        \\
+\midrule
+low    &     74 \\
+medium &     28 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+MAC    &        \\
+\midrule
+high   &     35 \\
+low    &     43 \\
+medium &     24 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+VPR    &        \\
+\midrule
+high   &     30 \\
+low    &     25 \\
+medium &     47 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+PPL    &        \\
+\midrule
+?      &     31 \\
+high   &      8 \\
+low    &     34 \\
+medium &     29 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+SCH    &        \\
+\midrule
+?      &     11 \\
+high   &     40 \\
+low    &     38 \\
+medium &     13 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+PRT    &        \\
+\midrule
+high   &     59 \\
+low    &     24 \\
+medium &     19 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+MGR    &        \\
+\midrule
+high   &     27 \\
+low    &     29 \\
+medium &     46 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+SOM &        \\
+\midrule
+?   &      6 \\
+low &     96 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+MXS    &        \\
+\midrule
+high   &     84 \\
+low    &      7 \\
+medium &     11 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+CMP    &        \\
+\midrule
+high   &     17 \\
+low    &     66 \\
+medium &     19 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+MDV    &        \\
+\midrule
+high   &     14 \\
+low    &     65 \\
+medium &     23 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lr}
+\toprule
+col\_0 &  count \\
+rating &        \\
+\midrule
+green  &     30 \\
+red    &     54 \\
+yellow &     18 \\
+\bottomrule
+\end{tabular}
+

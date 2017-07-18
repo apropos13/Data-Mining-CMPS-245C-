@@ -1,0 +1,5 @@
+\select@language {english}
+\contentsline {section}{Problem 1: Classification Problem for Venture Capital Investment (30 points) }{3}
+\contentsline {section}{Problem 2: Association Analysis of Successful Companies (20 points) }{10}
+\contentsline {section}{Problem 3: Clustering Crowdfunded Projects on Kickstarter (40 Points) }{15}
+\contentsline {section}{Problem 4: Brainstorming for Financial Investment Data Mining (10 points)}{28}
