@@ -1,0 +1,14 @@
+\begin{tabular}{lrrrrrrrr}
+\toprule
+{} &        id &  current\_satisfaction\_score &  last\_evaluation\_satisfaction\_score &  number\_projects &  average\_montly\_hours &  time\_spent\_at\_company &  promotion\_in\_last\_5\_years &    salary \\
+\midrule
+id                                 &  1.000000 &                    0.019087 &                            0.004644 &        -0.003514 &              0.003326 &               0.004154 &                  -0.000580 &  0.020131 \\
+current\_satisfaction\_score         &  0.019087 &                    1.000000 &                            0.105021 &        -0.142970 &             -0.020048 &              -0.100866 &                   0.025605 &  0.047476 \\
+last\_evaluation\_satisfaction\_score &  0.004644 &                    0.105021 &                            1.000000 &         0.349333 &              0.339742 &               0.131591 &                  -0.008684 & -0.014793 \\
+number\_projects                    & -0.003514 &                   -0.142970 &                            0.349333 &         1.000000 &              0.417211 &               0.196786 &                  -0.006064 & -0.004628 \\
+average\_montly\_hours               &  0.003326 &                   -0.020048 &                            0.339742 &         0.417211 &              1.000000 &               0.127755 &                  -0.003544 & -0.004719 \\
+time\_spent\_at\_company              &  0.004154 &                   -0.100866 &                            0.131591 &         0.196786 &              0.127755 &               1.000000 &                   0.067433 &  0.044233 \\
+promotion\_in\_last\_5\_years          & -0.000580 &                    0.025605 &                           -0.008684 &        -0.006064 &             -0.003544 &               0.067433 &                   1.000000 &  0.091139 \\
+salary                             &  0.020131 &                    0.047476 &                           -0.014793 &        -0.004628 &             -0.004719 &               0.044233 &                   0.091139 &  1.000000 \\
+\bottomrule
+\end{tabular}

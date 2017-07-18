@@ -1,0 +1,5 @@
+\select@language {english}
+\contentsline {section}{Problem 1: Exploratory Data Analysis and Data Cleaning (50 points) }{3}
+\contentsline {section}{Problem 2: Predicting Employee Satisfaction (20 points) }{9}
+\contentsline {section}{Problem 3: Classifying Employee Turnover (20 points)}{12}
+\contentsline {section}{Problem 4: Brainstorming (10 points)}{14}
